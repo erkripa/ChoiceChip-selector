@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "topic": "Health",
+        "subtopics": [
+            {
+                "stname": "skin care1 "
+            },
+            {
+                "stname": "skin care2 "
+            },
+            {
+                "stname": "skin care 3"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "topic": "Gaming ",
+        "subtopics": [
+            {
+                "stname": "skin care A "
+            },
+            {
+                "stname": "skin care B "
+            },
+            {
+                "stname": "skin care C"
+            },
+            {
+                "stname": "skin care D "
+            },
+            {
+                "stname": "skin careE  "
+            },
+            {
+                "stname": "skin careF "
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "topic": "Entertainment",
+        "subtopics": [
+            {
+                "stname": "skin care1 "
+            },
+            {
+                "stname": "skin care2 "
+            },
+            {
+                "stname": "skin care 3"
+            }
+        ]
+    }
+]
